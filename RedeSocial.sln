@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeSocial.Postagem", "RedeSocial.Postagem\RedeSocial.Postagem.csproj", "{0375085A-1F91-423D-94C2-DBD112380763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeSocial.Postagem.Application", "RedeSocial.Postagem.Application\RedeSocial.Postagem.Application.csproj", "{207B2D07-54F8-4ED9-ACF1-9BC08ADF3319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeSocial.Postagem.Infrastructure", "RedeSocial.Postagem.Infrastructure\RedeSocial.Postagem.Infrastructure.csproj", "{8E7E3155-8A9E-4FF6-A6E5-87522192C120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedeSocial.Postagem.Domain", "RedeSocial.Postagem.Domain\RedeSocial.Postagem.Domain.csproj", "{232468A3-106E-4C75-A878-79B11C98F4D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0375085A-1F91-423D-94C2-DBD112380763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0375085A-1F91-423D-94C2-DBD112380763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0375085A-1F91-423D-94C2-DBD112380763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0375085A-1F91-423D-94C2-DBD112380763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207B2D07-54F8-4ED9-ACF1-9BC08ADF3319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207B2D07-54F8-4ED9-ACF1-9BC08ADF3319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207B2D07-54F8-4ED9-ACF1-9BC08ADF3319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207B2D07-54F8-4ED9-ACF1-9BC08ADF3319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7E3155-8A9E-4FF6-A6E5-87522192C120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7E3155-8A9E-4FF6-A6E5-87522192C120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7E3155-8A9E-4FF6-A6E5-87522192C120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7E3155-8A9E-4FF6-A6E5-87522192C120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232468A3-106E-4C75-A878-79B11C98F4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232468A3-106E-4C75-A878-79B11C98F4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232468A3-106E-4C75-A878-79B11C98F4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232468A3-106E-4C75-A878-79B11C98F4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
